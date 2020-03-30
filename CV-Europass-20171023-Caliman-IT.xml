@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='UTF-8'?><SkillsPassport xmlns="http://europass.cedefop.europa.eu/Europass" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass http://europass.cedefop.europa.eu/xml/v3.3.0/EuropassSchema.xsd" locale="it">
+    <DocumentInfo>
+        <DocumentType>ECV</DocumentType>
+        <Bundle/>
+        <CreationDate>2016-09-13T11:58:45.041Z</CreationDate>
+        <LastUpdateDate>2017-10-23T14:24:33.854Z</LastUpdateDate>
+        <XSDVersion>V3.3</XSDVersion>
+        <Generator>EWA</Generator>
+        <Comment>Europass CV</Comment>
+        <EuropassLogo>true</EuropassLogo>
+    </DocumentInfo>
+    <PrintingPreferences>
+        <Document type="ECV">
+            <Field name="LearnerInfo.Identification.PersonName" show="true" order="Surname FirstName"/>
+            <Field name="LearnerInfo.Identification.Demographics.Birthdate" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[0].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[1].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[2].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[3].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[4].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[5].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[6].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[7].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[8].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[9].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[10].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.WorkExperience[11].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo.Education[0].Period" show="false" format="numeric/long"/>
+            <Field name="LearnerInfo" show="false" order="Identification Headline Education WorkExperience Skills Achievement ReferenceTo"/>
+        </Document>
+    </PrintingPreferences>
+    <LearnerInfo>
+        <Identification>
+            <PersonName>
+                <FirstName>Massimo</FirstName>
+                <Surname>Caliman</Surname>
+            </PersonName>
+            <ContactInfo>
+                <Address>
+                    <Contact>
+                        <AddressLine>Via YYYY XX XX XX XX.XX</AddressLine>
+                        <PostalCode>16127</PostalCode>
+                        <Municipality>Genova</Municipality>
+                        <Country>
+                            <Code>IT</Code>
+                            <Label>Italia</Label>
+                        </Country>
+                    </Contact>
+                </Address>
+                <Email>
+                    <Contact>mcaliman@gmail.com</Contact>
+                </Email>
+                <TelephoneList>
+                    <Telephone>
+                        <Contact>(+39) XXX9999999</Contact>
+                        <Use>
+                            <Code>mobile</Code>
+                        </Use>
+                    </Telephone>
+                </TelephoneList>
+                <WebsiteList>
+                    <Website>
+                        <Contact>http://massimocaliman.it</Contact>
+                    </Website>
+                    <Website>
+                        <Contact>http://www.linkedin.com/in/mcaliman</Contact>
+                    </Website>
+                    <Website>
+                        <Contact>http://github.com/mcaliman</Contact>
+                    </Website>
+                </WebsiteList>
+            </ContactInfo>
+        </Identification>
+        <Headline>
+            <Type>
+                <Code>position</Code>
+                <Label>POSIZIONE RICOPERTA</Label>
+            </Type>
+            <Description>
+                <Label>Responsabile sviluppo software</Label>
+            </Description>
+        </Headline>
+        <WorkExperienceList>
+            <WorkExperience>
+                <Period>
+                    <From year="2017" month="--06" day="---10"/>
+                    <Current>true</Current>
+                </Period>
+                <Position>
+                    <Label>Responsabile sviluppo software</Label>
+                </Position>
+                <Activities>&lt;p>Responsabile sviluppo software presso broker di assicurazioni dove mi occupo del progetto ed implementazione di portali B2B dedicati al mercato assicurativo.​​&lt;/p></Activities>
+                <Employer>
+                    <Name>BDA Euro Brokers s.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2012" month="--02" day="---01"/>
+                    <To year="2017" month="--05" day="---11"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Responsabile tecnico e Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Responsabile tecnico e Analista Programmatore di Sentosa s.r.l. azienda di servizi e consulenze in ambito IT e finanziario dove mi occupo di problematiche legate al mondo finanziario della cessione del quinto e assicurativo progettando e realizzando applicazioni Enterprise in Java&lt;/p></Activities>
+                <Employer>
+                    <Name>Sentosa S.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2011" month="--01" day="---01"/>
+                    <To year="2012" month="--01" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Capo Progetto e Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Capo progetto e Analista Programmatore presso Arax s.r.l. azienda di servizi dove mi sono occupato di problematiche legate al mondo finanziario e assicurativo progettando e sviluppando applicazioni in Java,C# e PHP.&lt;/p></Activities>
+                <Employer>
+                    <Name>Arax S.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2010" month="--07" day="---01"/>
+                    <To year="2010" month="--09" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Programmatore presso Stachus s.r.l. azienda di servizi dove mi sono occupato di sviluppare procedure per l&amp;#39;elaborazione dati e della loro rappresentazione come report in pagine web&lt;i>.&lt;/i>&lt;/p></Activities>
+                <Employer>
+                    <Name>Stachus s.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2010" month="--01" day="---01"/>
+                    <To year="2010" month="--05" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Capo Progetto e Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p> Capo progetto e Analista programmatore presso Britto Servizi s.r.l broker di assicurazioni dove mi sono occupato di problematiche legate all&amp;#39;elaborazione digitale di documenti su piattaforma Microsoft SharePoint 2007.​&lt;/p></Activities>
+                <Employer>
+                    <Name>Britto Servizi s.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2006" month="--03" day="---01"/>
+                    <To year="2010" month="--12" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Responsabile dello sviluppo e Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Responsabile dello sviluppo e Analista Programmatore presso Eterbit s.r.l. software house genovese dove mi sono occupato della gestione del team e dello sviluppo di software CMS,LMS in Java e problematiche riguardanti l&amp;#39;analisi dei dati tramite strumenti come QlikView .Mi sono occupato inoltre di problemi di integrazione in architetture Service Oriented.​&lt;/p></Activities>
+                <Employer>
+                    <Name>Eterbit s.r.l.</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2005" month="--10" day="---01"/>
+                    <To year="2006" month="--02" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Capo Progetto e Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Capo Progetto e Analista Programmatore presso Macbit s.r.l dove mi sono occupato dello sviluppo di prodotti CMS e LMS in Java.&lt;/p></Activities>
+                <Employer>
+                    <Name>Macbit s.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2003" month="--04" day="---01"/>
+                    <To year="2005" month="--07" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Analista Programmatore presso Text-e s.r.l una software house genovese dove mi sono occupato dello sviluppo di prodotti per il Web Content Management System , di Workflow Management System in Java e del coordinamento del sviluppo lato server come team leader.&lt;/p></Activities>
+                <Employer>
+                    <Name>Text-e s.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="2001" month="--04" day="---01"/>
+                    <To year="2003" month="--04" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Analista Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Analista Programmatore presso Datasys Informatica S.p.A IBM e-Business Partner dove mi sono occupato di progetti B2B e B2C sviluppati in Java utilizzando tecnologie JSP e Servlet su WebSphere, di Lotus Domino e ERP verticali. Ho curato anche lo sviluppo di applicazioni nuove in Java e del porting di applicazioni ASP e Visual Basic in Java.&lt;/p></Activities>
+                <Employer>
+                    <Name>Datasys Informatica S.p.A</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="1998" month="--08" day="---01"/>
+                    <To year="2001" month="--04" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Programmatore</Label>
+                </Position>
+                <Activities>&lt;p> Programmatore presso lo Studio Balbi s.u.r.l software house IBM Business Partner di Genova, dove mi sono occupato di progettare e sviluppare applicazioni Java nell&amp;#39;ambito del rilevamento presenze e paghe, in particolar modo dello sviluppo di interfacce paghe per prodotti della società Zucchetti.&lt;/p></Activities>
+                <Employer>
+                    <Name>Studio Balbi s.u.r.l</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="1997" month="--05" day="---01"/>
+                    <To year="1998" month="--08" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Programmatore</Label>
+                </Position>
+                <Activities>&lt;p>Ho prestato consulenza per la realizzazione di diversi siti web e software tra cui i siti della Irish and Celtic Association della Agostino Vignolo &amp;amp; C. S.n.c. e della Conte S.n.c. di Genova. Ho sviluppato script (JavaScript, VBScript, Java) e pagine in HTML per alcuni siti.​&lt;/p></Activities>
+                <Employer>
+                    <Name>Freelance</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+            <WorkExperience>
+                <Period>
+                    <From year="1995" month="--05" day="---01"/>
+                    <To year="1996" month="--05" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Position>
+                    <Label>Tecnico Informatico ed Educatore</Label>
+                </Position>
+                <Activities>&lt;p>Ho svolto il servizio civile presso l&amp;#39;Assessorato ai Servizi Sociali del Comune di Mignanego dove, oltre ad occuparmi di problemi legati alla sfera del sociale e dell&amp;#39;educazione dei minori, mi sono occupato di problemi amministrativi ed organizzativi, gestendo ed adeguando i sistemi informatici presenti alle esigenze dell&amp;#39;amministrazione.​&lt;/p></Activities>
+                <Employer>
+                    <Name>Comune di Mignanego (Servizio Civile)</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Mignanego</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Employer>
+            </WorkExperience>
+        </WorkExperienceList>
+        <EducationList>
+            <Education>
+                <Period>
+                    <From year="1986" month="--09" day="---01"/>
+                    <To year="1991" month="--06" day="---01"/>
+                    <Current>false</Current>
+                </Period>
+                <Title>Diploma di perito industriale capotecnico per l’elettronica conseguito con votazione 58/60</Title>
+                <Activities>&lt;p>Elettronica analogica, Elettronica digitale, Informatica.​&lt;/p></Activities>
+                <Organisation>
+                    <Name>Istituto Tecnico Industriale "Don Bosco"</Name>
+                    <ContactInfo>
+                        <Address>
+                            <Contact>
+                                <Municipality>Genova</Municipality>
+                                <Country>
+                                    <Code>IT</Code>
+                                    <Label>Italia</Label>
+                                </Country>
+                            </Contact>
+                        </Address>
+                    </ContactInfo>
+                </Organisation>
+            </Education>
+        </EducationList>
+        <Skills>
+            <Linguistic>
+                <MotherTongueList>
+                    <MotherTongue>
+                        <Description>
+                            <Code>it</Code>
+                            <Label>italiano</Label>
+                        </Description>
+                    </MotherTongue>
+                </MotherTongueList>
+                <ForeignLanguageList>
+                    <ForeignLanguage>
+                        <Description>
+                            <Code>en</Code>
+                            <Label>inglese</Label>
+                        </Description>
+                        <ProficiencyLevel>
+                            <Listening>A2</Listening>
+                            <Reading>B1</Reading>
+                            <SpokenInteraction>A1</SpokenInteraction>
+                            <SpokenProduction>A2</SpokenProduction>
+                            <Writing>A2</Writing>
+                        </ProficiencyLevel>
+                    </ForeignLanguage>
+                </ForeignLanguageList>
+            </Linguistic>
+            <Communication>
+                <Description>&lt;p>Buone capacità comunicative acquisite:&lt;/p>&lt;ul>&lt;li>In ambito lavorativo attraverso la partecipazione e la conduzione di riunioni tecniche &lt;/li>&lt;li>​In ambito extra lavorativo per mezzo della partecipazione e conduzione di seminari di carattere informatico al Java User Group di Genova del quale sono tra i soci fondatori e del Google Developers Group di cui sono membro&lt;/li>&lt;/ul></Description>
+            </Communication>
+            <Organisational>
+                <Description>&lt;p>Sono in grado di organizzare autonomamente il lavoro, definendo priorità e assumendo responsabilità, capacità acquisite durante le mie esperienze lavorative, nelle quali mi è sempre stato richiesto di gestire in maniera autonoma le diverse attività rispettando le scadenze e gli obiettivi prefissati. Sono in grado di lavorare in situazioni di stress.&lt;/p></Description>
+            </Organisational>
+            <JobRelated>
+                <Description>&lt;ul>&lt;li>Capacità di analisi e implementazione di soluzioni informatiche&lt;/li>&lt;li>Conoscenza e applicazione dei maggiori Design Pattern&lt;/li>&lt;li>Progettazione di architetture informatiche in ambito JEE&lt;/li>&lt;li>Architetture SOA&lt;/li>&lt;li>Progettazione e gestione di basi di dati relazionali&lt;/li>&lt;li>Gestione di team di sviluppatori&lt;/li>&lt;/ul></Description>
+            </JobRelated>
+            <Computer>
+                <Description>&lt;p>Analisi e sviluppo software&lt;/p>&lt;ul>&lt;li>Più di 15 anni di esperienza in progetti B2B e B2C sia in ambiente web che desktop.&lt;/li>&lt;li>Utilizzo di metodologie Object Oriented.&lt;/li>&lt;/ul>&lt;ul>&lt;li>Buona conoscenza dei diagrammi UML e E-R&lt;/li>&lt;/ul>&lt;p>Linguaggi&lt;/p>&lt;ul>&lt;li>Java 15 di anni di esperienza nella progettazione e sviluppo di applicazioni Java SE e Java EE&lt;/li>&lt;li>javascript&lt;/li>&lt;li>C&amp;#43;&amp;#43;&lt;/li>&lt;li>R&lt;/li>&lt;li>PHP&lt;/li>&lt;li>Visual Basic&lt;/li>&lt;li>ASP&lt;/li>&lt;li>Pascal&lt;/li>&lt;li>RPG&lt;/li>&lt;li>SQL&lt;/li>&lt;/ul>&lt;ul>&lt;li>Python&lt;/li>&lt;li>Conoscenze di base di C# in ambiente Visual Studio 2008 e dei Visual Studio Tool Office per la realizzazione di add-in per l&amp;#39;Office Automation in special modo per Microsoft Outlook.&lt;/li>&lt;/ul>&lt;p>Linguaggi di marcatura e altri linguaggi&lt;/p>&lt;ul>&lt;li>XML&lt;/li>&lt;li>XSLT&lt;/li>&lt;li>XHTML&lt;/li>&lt;li>HTML 5&lt;/li>&lt;li>CSS​&lt;/li>&lt;/ul>&lt;p>Web server/Web container&lt;/p>&lt;ul>&lt;li>Apache Web Server&lt;/li>&lt;li>Jakarta Tomcat&lt;/li>&lt;/ul>&lt;p>Application Server&lt;/p>&lt;ul>&lt;li>IBM WebSphere AS 3.5 in ambienti AS/400&lt;/li>&lt;li>Glassfish&lt;/li>&lt;/ul>&lt;p>Database Management System (DBMS)&lt;/p>&lt;ul>&lt;li>MySQL (dal 2010)&lt;/li>&lt;li>IBM DB2 UDB &lt;/li>&lt;li>IBM DB2/400&lt;/li>&lt;li>Oracle 8i&lt;/li>&lt;li>Microsoft SQL Server 7 e 2000&lt;/li>&lt;/ul>&lt;p>Framework e progetti open source&lt;/p>&lt;ul>&lt;li>Conoscenza approfondita ed uso dei progetti di Jakarta : Xalan, Xerces,&lt;/li>&lt;/ul>&lt;p>Jetspeed,Turbine,Torque,Lucene. JPA 2.1, Java Server Faces&lt;/p>&lt;ul>&lt;li>Conoscenza di base di Hibernate,EclipseLink e Jakarta Struts.&lt;/li>&lt;/ul>&lt;p>Sistemi operativi&lt;/p>&lt;ul>&lt;li>Conoscenza dei sistemi operativi Microsoft. &lt;/li>&lt;li>Conoscenza e amministrazione&lt;/li>&lt;/ul>&lt;p>di base dei sistemi operativi Linux (principalmente Ubuntu)&lt;/p>&lt;ul>&lt;li>Unix (Solaris)&lt;/li>&lt;li>IBM OS/400&lt;/li>&lt;/ul>&lt;p>Ambienti di sviluppo&lt;/p>&lt;ul>&lt;li>NetBeans&lt;/li>&lt;li>Eclipse&lt;/li>&lt;li>Visual Studio​&lt;/li>&lt;/ul>&lt;p>Virtualizzazione&lt;/p>&lt;ul>&lt;li>Virtual Box&lt;/li>&lt;/ul></Description>
+                <ProficiencyLevel>
+                    <Information>C</Information>
+                    <Communication>C</Communication>
+                    <ContentCreation>C</ContentCreation>
+                    <Safety>C</Safety>
+                    <ProblemSolving>C</ProblemSolving>
+                </ProficiencyLevel>
+            </Computer>
+        </Skills>
+        <AchievementList>
+            <Achievement>
+                <Title>
+                    <Code>memberships</Code>
+                    <Label>Appartenenza a gruppi / associazioni</Label>
+                </Title>
+                <Description>&lt;ul>&lt;li>Dal 1999 membro della Java Italian Association, per la quale mi sono occupato della gestione del portale e delle relazioni con le aziende.&lt;/li>&lt;li>Dal 2007 membro del Java User Group della città di Genova di cui sono il fondatore.&lt;/li>&lt;li>Dal 2012 socio A.I.C.A Associazione Italiana per il Calcolo Automatico.&lt;/li>&lt;/ul>&lt;ul>&lt;li>Dal 2013 membro del Google Developer Group di Genova di cui sono uno dei membri organizzatori.​&lt;/li>&lt;/ul></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>certifications</Code>
+                    <Label>Certificazioni</Label>
+                </Title>
+                <Description>&lt;ul>&lt;li>Introduction to Big Data (2015) by University of California, San Diego on Coursera. Certificate earned on January 23, 2016​ (License 3AJE4934J3WE​)&lt;/li>&lt;/ul>&lt;ul>&lt;li>The Data Scientist&amp;#39;s Toolbox by Johns Hopkins University on Coursera. Certificate earned on February 15, 2016​ (License NG3B75Q3F7YE​)&lt;/li>&lt;/ul>&lt;ul>&lt;li>R Programming by Johns Hopkins University on Coursera. Certificate earned on March 8, 2016​ (License ABDF8QZGRQWE&lt;span class="redactor-invisible-space">​)&lt;br />&lt;span class="redactor-invisible-space">&lt;/span>&lt;/span>&lt;/li>&lt;li>&lt;span class="redactor-invisible-space">Python Programming: A Concise Introduction by Wesleyan University on Coursera. Certificate earned on October 15, 2016 (License HYMKLALFGZML)&lt;br />&lt;/span>&lt;/li>&lt;/ul></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>courses</Code>
+                    <Label>Corsi</Label>
+                </Title>
+                <Description>&lt;ul>&lt;li>Corso Teorico – Pratico di &amp;#34;Programmazione per Calcolatori Elettronici&amp;#34; Basic Level&lt;/li>&lt;/ul>&lt;p>&lt;a target="_blank">&lt;/a>frequentato nell&amp;#39;anno 1986/1987 presso l&amp;#39;Istituto Tecnico Industriale &amp;#34;Don Bosco&amp;#34;.&lt;/p>&lt;ul>&lt;li>Corso Teorico – Pratico di &amp;#34;Programmazione per Calcolatori Elettronici&amp;#34; Intermediate Level&lt;/li>&lt;/ul>&lt;p>&lt;a target="_blank">&lt;/a>frequentato nell&amp;#39;anno 1987/1988 presso l&amp;#39;Istituto Tecnico Industriale &amp;#34;Don Bosco&amp;#34;.&lt;/p>&lt;ul>&lt;li>Corso Teorico – Pratico di &amp;#34;Programmazione per Calcolatori Elettronici&amp;#34; Advanced Level&lt;/li>&lt;/ul>&lt;p>&lt;a target="_blank">&lt;/a>frequentato nell&amp;#39;anno 1988/1989 presso l&amp;#39;Istituto Tecnico Industriale &amp;#34;Don Bosco&amp;#34;.&lt;/p>&lt;ul>&lt;li>Corso IBM PL971 WebSphere&lt;/li>&lt;li>Corso IBM ACG For Lotus Notes&lt;/li>&lt;li>Corso QlikView - Livello Analyzer/Professional,Livello Developer - maggio 2009​&lt;/li>&lt;/ul></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>publications</Code>
+                    <Label>Pubblicazioni</Label>
+                </Title>
+                <Description>&lt;ul>&lt;li>Coautore dell&amp;#39;articolo &amp;#34;Un package per il debugging in Java&amp;#34; (dicembre 1999) pubblicato sulla rivista web Mokabyte (&lt;a href="http://www.mokabyte.it" target="_blank" rel="nofollow">www.mokabyte.it&lt;/a>) nella sezione Java Advanced .&lt;/li>&lt;/ul>&lt;ul>&lt;li>Coautore dell&amp;#39;articolo &amp;#34;Java e il protocollo UDP&amp;#34; (marzo 2000)&lt;/li>&lt;/ul>&lt;p>pubblicato sulla rivista web Mokabyte (&lt;a href="http://www.mokabyte.it" target="_blank" rel="nofollow">www.mokabyte.it&lt;/a>) nella sezione Java Advanced .​&lt;/p&gt;&lt;ul>&lt;li>Articoli poi richiesti e pubblicati anche da Programmazione.it &lt;a href="http://www.programmazione.it" target="_blank" rel="nofollow">www.programmazione.it&lt;/a> (gennaio 2001) e DevSpy.com &lt;a href="http://www.devspy.com" target="_blank" rel="nofollow">www.devspy.com&lt;/a>. (agosto 2001)​&lt;/li>&lt;/ul></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>presentations</Code>
+                    <Label>Presentazioni</Label>
+                </Title>
+                <Description>&lt;p>Google App Engine Overview&lt;/p>&lt;p>http://www.slideshare.net/slideshow/embed_code/26897174​​​&lt;/p></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>seminars</Code>
+                    <Label>Seminari</Label>
+                </Title>
+                <Description>&lt;ul>&lt;li>Seminario Google Developer Group Genova 4 ottobre 2013 : &amp;#34;Google App Engine Overview&amp;#34;​​​&lt;/li>&lt;li>Seminario Java PDF generation with iText, gennaio 2009,seminario del JUG Genova (http://juggenova.net) tenuto presso il Dipartimento di Informatica e Scienze dell&amp;#39;Informazione dell&amp;#39;università di Genova.​​​&lt;/li>&lt;/ul>&lt;ul>&lt;li>Nel maggio 2003 ho tenuto il seminario &amp;#34;Java Base – package I/O e NET&amp;#34; al Webbit 2003 di Padova per la Java Italian Association &lt;a href="http://www.webb.it/event/eventview/980/" target="_blank" rel="nofollow">http://www.webb.it/event/eventview/980/&lt;/a>&lt;/li>&lt;/ul></Description>
+            </Achievement>
+            <Achievement>
+                <Title>
+                    <Code>signature_equivalent</Code>
+                    <Label>Trattamento dei dati personali</Label>
+                </Title>
+                <Description>&lt;p>Autorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 &amp;#34;Codice in materia di protezione dei dati personali.&lt;/p></Description>
+            </Achievement>
+        </AchievementList>
+    </LearnerInfo>
+    <CoverLetter>
+        <Letter>
+            <ClosingSalutation>
+                <Code>closing-salut-1</Code>
+                <Label>Distinti saluti</Label>
+            </ClosingSalutation>
+        </Letter>
+    </CoverLetter>
+</SkillsPassport>

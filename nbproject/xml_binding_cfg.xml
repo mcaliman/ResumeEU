@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='ResumeEU' version='1.0'>
+	<schema type='-xmlschema' package='' name='EuropassV340'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/EuropassV340/EuropassSchema.xsd' origLocation='europass-xml-schema-definition-v3.4.0/v3.4.0/EuropassSchema.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
